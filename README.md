@@ -6,8 +6,7 @@
 - EX 👑
 
 # ✏️
-- Installer tous les
-- dfgdfgfdg modules
+- Installer tous les modules
 > `npm i discord.js-selfbot-v13 node-fetch readline gradient-string`
 - node lockurl.js
 
