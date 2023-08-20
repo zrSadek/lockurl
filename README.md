@@ -4,3 +4,8 @@
 
 # **Author**
 - EX 👑
+
+# ✏️
+
+
+https://cdn.discordapp.com/attachments/1138957944583635083/1142938892694200441/LockURL-EX.PNG
